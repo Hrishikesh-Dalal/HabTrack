@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # HabTrack
 This is a minimalistic App that is using to track your everyday habits and provide suggestion according to weather. Key Features : Heatmaps, Weather API integration, Dual theme Modes,
-=======
 # habits
 
 A new Flutter project.
@@ -18,4 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> e08830a (first commit)
